@@ -29,9 +29,13 @@ from pathlib import Path
 
 # Thư mục cache âm thanh nằm cạnh file này
 BASE_DIR = Path(__file__).resolve().parent
+# Tạo thư mục cache
 AUDIO_DIR = BASE_DIR / "audio_cache"
 AUDIO_DIR.mkdir(exist_ok=True)
 LOG_FILE = BASE_DIR / "audio.log"
+
+# Nếu không muốn lưu gì:
+# AUDIO_DIR = None
 
 # Logger ghi file để debug khi không nghe được
 logger = logging.getLogger("vocab_audio")
@@ -44,6 +48,8 @@ if not logger.handlers:
 # Lock tránh race condition khi nhiều request cùng lúc
 _lock = threading.Lock()
 
+# Nếu ko muốn log ra console, thêm NullHandler để tránh warning "No handlers could be found" -> cmt đoạn trên lại
+# logger.addHandler(logging.NullHandler())
 
 def _safe_name(text: str, lang: str) -> Path:
     """
