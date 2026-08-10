@@ -1,0 +1,389 @@
+[
+  {
+    "lesson": "Bài 1: Chào hỏi & Tự giới thiệu",
+    "pattern": "N1 は N2 です",
+    "title": "Mẫu câu giới thiệu tên:",
+    "meaning": "N1 là N2.",
+    "example": "わたしは マイです。 | Tôi là Mai.",
+    "romaji": "N1 wa N2 desu",
+    "type": "Grammar"
+  },
+  {
+    "lesson": "Bài 1: Chào hỏi & Tự giới thiệu",
+    "pattern": "Chào hỏi cơ bản:",
+    "title": "Chào hỏi cơ bản:",
+    "meaning": "",
+    "example": "おはようございます → Chào buổi sáng. | ありがとうございます → Xin cảm ơn.",
+    "romaji": "Ohayou gozaimasu",
+    "type": "Grammar"
+  },
+  {
+    "lesson": "Bài 2: Sử dụng ngôn ngữ trong lớp học",
+    "pattern": "～は [Ngôn ngữ]で なんですか",
+    "title": "Trợ từ で (chỉ phương tiện/ngôn ngữ):",
+    "meaning": "Từ này trong tiếng... nói là gì?",
+    "example": "「Thank you」は にほんごで なんですか。 | \"Thank you\" trong tiếng Nhật là gì?",
+    "romaji": "~ wa [Ngôn ngữ] de nan desu ka",
+    "type": "Grammar"
+  },
+  {
+    "lesson": "Bài 2: Sử dụng ngôn ngữ trong lớp học",
+    "pattern": "Yêu cầu lặp lại:",
+    "title": "Yêu cầu lặp lại:",
+    "meaning": "",
+    "example": "もういちど おねがいします。 | Xin vui lòng nhắc lại lần nữa.",
+    "romaji": "Mou ichido onegaishimasu.",
+    "type": "Grammar"
+  },
+  {
+    "lesson": "Bài 3: Nghề nghiệp & Khả năng",
+    "pattern": "N1 は N2 じゃないです",
+    "title": "Câu phủ định:",
+    "meaning": "N1 không phải là N2.",
+    "example": "わたしは がくせいじゃないです。 | Tôi không phải là học sinh.",
+    "romaji": "N1 wa N2 ja nai desu",
+    "type": "Grammar"
+  },
+  {
+    "lesson": "Bài 3: Nghề nghiệp & Khả năng",
+    "pattern": "N1 も N2 です",
+    "title": "Trợ từ も (Cũng):",
+    "meaning": "N1 cũng là N2.",
+    "example": "わたしも エンジニアです。 | Tôi cũng là kỹ sư.",
+    "romaji": "N1 mo N2 desu",
+    "type": "Grammar"
+  },
+  {
+    "lesson": "Bài 3: Nghề nghiệp & Khả năng",
+    "pattern": "[Ngôn ngữ] が できます",
+    "title": "Khả năng ngôn ngữ:",
+    "meaning": "Có thể dùng tiếng...",
+    "example": "すこし にほんごが できます。 | Tôi có thể nói được một chút tiếng Nhật.",
+    "romaji": "[Ngôn ngữ] ga dekimasu",
+    "type": "Grammar"
+  },
+  {
+    "lesson": "Bài 4: Gia đình & Nơi sống",
+    "pattern": "N1 の N2",
+    "title": "Trợ từ の (Sở hữu):",
+    "meaning": "N2 của N1.",
+    "example": "わたしの かぞく | Gia đình của tôi.",
+    "romaji": "N1 no N2",
+    "type": "Grammar"
+  },
+  {
+    "lesson": "Bài 4: Gia đình & Nơi sống",
+    "pattern": "N1 と N2",
+    "title": "Liệt kê (Và):",
+    "meaning": "N1 và N2.",
+    "example": "かぞくは ちちと ははと わたしです。 | Gia đình tôi có bố, mẹ và tôi.",
+    "romaji": "N1 to N2",
+    "type": "Grammar"
+  },
+  {
+    "lesson": "Bài 4: Gia đình & Nơi sống",
+    "pattern": "[Nơi chốn] に すんでいます",
+    "title": "Nơi sinh sống:",
+    "meaning": "Đang sống ở...",
+    "example": "ハノイに すんでいます。 | Tôi đang sống ở Hà Nội.",
+    "romaji": "[Nơi chốn] ni sunde imasu",
+    "type": "Grammar"
+  },
+  {
+    "lesson": "Bài 5: Sở thích ăn uống",
+    "pattern": "N が すきです",
+    "title": "Diễn tả sự yêu thích:",
+    "meaning": "Thích N.",
+    "example": "わたしは にくと さかなが すきです。 | Tôi thích thịt và cá.",
+    "romaji": "N ga suki desu",
+    "type": "Grammar"
+  },
+  {
+    "lesson": "Bài 5: Sở thích ăn uống",
+    "pattern": "N を V-ます",
+    "title": "Hành động với tân ngữ (Trợ từ を):",
+    "meaning": "Làm hành động V với N.",
+    "example": "まいにち くだものを たべます。 | Mỗi ngày tôi đều ăn trái cây.",
+    "romaji": "N o V-masu",
+    "type": "Grammar"
+  },
+  {
+    "lesson": "Bài 5: Sở thích ăn uống",
+    "pattern": "Tần suất:",
+    "title": "Tần suất:",
+    "meaning": "thường xuyên), ときどき (tokidoki - thỉnh thoảng).",
+    "example": "よく コーヒーを のみます。 | Tôi thường xuyên uống cà phê.",
+    "romaji": "Yoku koohii o nomimasu.",
+    "type": "Grammar"
+  },
+  {
+    "lesson": "Bài 6: Ăn ở đâu? Gọi món",
+    "pattern": "[Địa điểm] で V-ます",
+    "title": "Địa điểm hành động (Trợ từ で):",
+    "meaning": "Làm gì đó tại đâu.",
+    "example": "レストランで 昼ごはんを たべます。 | Tôi ăn trưa ở nhà hàng.",
+    "romaji": "[Địa điểm] de V-masu",
+    "type": "Grammar"
+  },
+  {
+    "lesson": "Bài 6: Ăn ở đâu? Gọi món",
+    "pattern": "[Món ăn] を ください",
+    "title": "Yêu cầu gọi món:",
+    "meaning": "Cho tôi món...",
+    "example": "カレーを ください。 | Cho tôi món cà ri.",
+    "romaji": "[Món ăn] o kudasai",
+    "type": "Grammar"
+  },
+  {
+    "lesson": "Bài 7: Có gì trong nhà?",
+    "pattern": "[Nơi chốn] に N が あります",
+    "title": "Sự tồn tại (Đồ vật/Không có sự sống):",
+    "meaning": "Có N ở...",
+    "example": "へやに エアコンが あります。 | Trong phòng có máy lạnh.",
+    "romaji": "[Nơi chốn] ni N ga arimasu",
+    "type": "Grammar"
+  },
+  {
+    "lesson": "Bài 7: Có gì trong nhà?",
+    "pattern": "[Nơi chốn] に N が います",
+    "title": "Sự tồn tại (Người/Động vật):",
+    "meaning": "Có N ở...",
+    "example": "うちに ねこが います。 | Ở nhà có con mèo.",
+    "romaji": "[Nơi chốn] ni N ga imasu",
+    "type": "Grammar"
+  },
+  {
+    "lesson": "Bài 8: Vị trí của đồ vật",
+    "pattern": "N1 の [うえ/した/なか...]",
+    "title": "Vị trí không gian:",
+    "meaning": "Trên/dưới/trong của N1.",
+    "example": "ほんは つくえの うえです。 | Sách ở trên bàn.",
+    "romaji": "N1 no [ue/shita/naka...]",
+    "type": "Grammar"
+  },
+  {
+    "lesson": "Bài 8: Vị trí của đồ vật",
+    "pattern": "[Nơi chốn] に おきます",
+    "title": "Hành động đặt/để:",
+    "meaning": "Đặt/để ở đâu.",
+    "example": "かばんは ここに おきます。 | Cặp thì đặt ở đây.",
+    "romaji": "[Nơi chốn] ni okimasu",
+    "type": "Grammar"
+  },
+  {
+    "lesson": "Bài 9: Thời gian biểu",
+    "pattern": "いま なんじですか",
+    "title": "Hỏi giờ:",
+    "meaning": "Bây giờ là mấy giờ?",
+    "example": "いま 8じ 30ぷんです。 | Bây giờ là 8 giờ 30 phút.",
+    "romaji": "Ima nan-ji desu ka",
+    "type": "Grammar"
+  },
+  {
+    "lesson": "Bài 9: Thời gian biểu",
+    "pattern": "[Thời gian] に V-ます",
+    "title": "Thời điểm diễn ra hành động (Trợ từ に):",
+    "meaning": "",
+    "example": "わたしは 7じに おきます。 | Tôi thức dậy lúc 7 giờ.",
+    "romaji": "[Thời gian] ni V-masu",
+    "type": "Grammar"
+  },
+  {
+    "lesson": "Bài 10: Khoảng thời gian",
+    "pattern": "N1 から N2 まで",
+    "title": "Từ... Đến... :",
+    "meaning": "",
+    "example": "かいしゃは 9じから 5じまでです。 | Công ty làm việc từ 9 giờ đến 5 giờ.",
+    "romaji": "N1 kara N2 made",
+    "type": "Grammar"
+  },
+  {
+    "lesson": "Bài 10: Khoảng thời gian",
+    "pattern": "[Số giờ] じかん V-ます",
+    "title": "Thời lượng:",
+    "meaning": "",
+    "example": "まいにち 1じかん にほんごを べんきょうします。 | Mỗi ngày tôi học tiếng Nhật 1 tiếng.",
+    "romaji": "[Số] jikan V-masu",
+    "type": "Grammar"
+  },
+  {
+    "lesson": "Bài 11: Sở thích",
+    "pattern": "わたしの しゅみは [Danh từ] です",
+    "title": "Nói về sở thích:",
+    "meaning": "",
+    "example": "わたしの しゅみは えいがです。 | Sở thích của tôi là phim ảnh.",
+    "romaji": "Watashi no shumi wa N desu",
+    "type": "Grammar"
+  },
+  {
+    "lesson": "Bài 11: Sở thích",
+    "pattern": "うちで V-ます",
+    "title": "Làm gì đó ở nhà:",
+    "meaning": "",
+    "example": "うちで おんがくを ききます。 | Tôi nghe nhạc ở nhà.",
+    "romaji": "Uchi de V-masu",
+    "type": "Grammar"
+  },
+  {
+    "lesson": "Bài 12: Rủ rê đi chơi",
+    "pattern": "[Danh từ] を みに いきます",
+    "title": "Mục đích đi đâu đó:",
+    "meaning": "Đi để xem N.",
+    "example": "テニスを みに いきます。 | Tôi đi xem tennis.",
+    "romaji": "N o mi ni ikimasu",
+    "type": "Grammar"
+  },
+  {
+    "lesson": "Bài 12: Rủ rê đi chơi",
+    "pattern": "V-ませんか",
+    "title": "Rủ rê lịch sự:",
+    "meaning": "Bạn cùng... với tôi không?",
+    "example": "いっしょに おちゃを のみませんか。 | Bạn cùng uống trà với tôi nhé?",
+    "romaji": "V-masen ka",
+    "type": "Grammar"
+  },
+  {
+    "lesson": "Bài 12: Rủ rê đi chơi",
+    "pattern": "V-ましょう",
+    "title": "Đồng ý rủ rê:",
+    "meaning": "Cùng làm thôi!",
+    "example": "いいですね。のみましょう。 | Tuyệt đấy. Cùng uống thôi.",
+    "romaji": "V-mashou",
+    "type": "Grammar"
+  },
+  {
+    "lesson": "Bài 13: Phương tiện & Lý do",
+    "pattern": "[Phương tiện] で いきます",
+    "title": "Đi bằng phương tiện gì:",
+    "meaning": "",
+    "example": "バスで いきます。 | Tôi đi bằng xe buýt.",
+    "romaji": "[Phương tiện] de ikimasu",
+    "type": "Grammar"
+  },
+  {
+    "lesson": "Bài 13: Phương tiện & Lý do",
+    "pattern": "[Phương tiện] に のります",
+    "title": "Lên phương tiện:",
+    "meaning": "",
+    "example": "タクシーに のります。 | Tôi lên xe taxi.",
+    "romaji": "[Phương tiện] ni norimasu",
+    "type": "Grammar"
+  },
+  {
+    "lesson": "Bài 13: Phương tiện & Lý do",
+    "pattern": "[Mệnh đề] から",
+    "title": "Đưa ra lý do:",
+    "meaning": "Vì...",
+    "example": "ちかいですから。 | Bởi vì nó gần.",
+    "romaji": "[Mệnh đề] kara",
+    "type": "Grammar"
+  },
+  {
+    "lesson": "Bài 14: Mô tả địa điểm",
+    "pattern": "Sử dụng tính từ bổ nghĩa cho Danh từ:",
+    "title": "Sử dụng tính từ bổ nghĩa cho Danh từ:",
+    "meaning": "",
+    "example": "Tính từ đuôi い: ふるい じんじゃ → Ngôi đền cổ. | Tính từ đuôi な: にぎやかな まち → Thành phố nhộn nhịp.",
+    "romaji": "Furui jinja",
+    "type": "Grammar"
+  },
+  {
+    "lesson": "Bài 14: Mô tả địa điểm",
+    "pattern": "N1 の [となり/まえ...] に あります",
+    "title": "Vị trí tương quan:",
+    "meaning": "",
+    "example": "レストランは ホテルの となりに あります。 | Nhà hàng nằm bên cạnh khách sạn.",
+    "romaji": "N1 no [tonari/mae...] ni arimasu",
+    "type": "Grammar"
+  },
+  {
+    "lesson": "Bài 15: Mong muốn & Tặng/Nhận đồ",
+    "pattern": "N が ほしいです",
+    "title": "Mong muốn có món đồ:",
+    "meaning": "",
+    "example": "あたらしい くるまが ほしいです。 | Tôi muốn có một chiếc ô tô mới.",
+    "romaji": "N ga hoshii desu",
+    "type": "Grammar"
+  },
+  {
+    "lesson": "Bài 15: Mong muốn & Tặng/Nhận đồ",
+    "pattern": "V-ました",
+    "title": "Động từ quá khứ:",
+    "meaning": "Đã làm...",
+    "example": "きのう かいものを しました。 | Hôm qua tôi đã đi mua sắm.",
+    "romaji": "V-mashita",
+    "type": "Grammar"
+  },
+  {
+    "lesson": "Bài 15: Mong muốn & Tặng/Nhận đồ",
+    "pattern": "N に [Vật] を あげます",
+    "title": "Cho/Tặng đồ:",
+    "meaning": "Tặng vật cho N.",
+    "example": "ははに はなを あげました。 | Tôi đã tặng hoa cho mẹ.",
+    "romaji": "N ni [Vật] o agemasu",
+    "type": "Grammar"
+  },
+  {
+    "lesson": "Bài 15: Mong muốn & Tặng/Nhận đồ",
+    "pattern": "N に/から [Vật] を もらいます",
+    "title": "Nhận đồ:",
+    "meaning": "Nhận vật từ N.",
+    "example": "ともだちに ほんを もらいました。 | Tôi đã nhận sách từ bạn.",
+    "romaji": "N ni/kara [Vật] o moraimasu",
+    "type": "Grammar"
+  },
+  {
+    "lesson": "Bài 16: Mua bán tại cửa hàng",
+    "pattern": "これは いくらですか",
+    "title": "Hỏi giá cả:",
+    "meaning": "Cái này bao nhiêu tiền?",
+    "example": "この Ｔシャツは いくらですか。 | Cái áo thun này bao nhiêu tiền?",
+    "romaji": "Kore wa ikura desu ka",
+    "type": "Grammar"
+  },
+  {
+    "lesson": "Bài 16: Mua bán tại cửa hàng",
+    "pattern": "これ/それ/あれ を ください",
+    "title": "Chốt mua hàng:",
+    "meaning": "",
+    "example": "これを ください。 | Cho tôi lấy cái này.",
+    "romaji": "Kore/Sore/Are o kudasai",
+    "type": "Grammar"
+  },
+  {
+    "lesson": "Bài 17: Cảm nhận trong quá khứ",
+    "pattern": "Biến đổi Tính từ về quá khứ:",
+    "title": "Biến đổi Tính từ về quá khứ:",
+    "meaning": "",
+    "example": "Tính từ đuôi い -> Bỏ い thêm かったです → . | りょこうは とても たのしかったです。 | Chuyến du lịch đã rất vui. | Tính từ đuôi な / Danh từ -> Thêm でした → . | きのうの まちは にぎやかでした。 | Thị trấn hôm qua đã rất nhộn nhịp.",
+    "romaji": "katta desu",
+    "type": "Grammar"
+  },
+  {
+    "lesson": "Bài 17: Cảm nhận trong quá khứ",
+    "pattern": "Phủ định hoàn toàn (Điểm đến):",
+    "title": "Phủ định hoàn toàn (Điểm đến):",
+    "meaning": "",
+    "example": "どこにも いきませんでした。 | Đã không đi đâu cả.",
+    "romaji": "Dokonimo ikimasen deshita.",
+    "type": "Grammar"
+  },
+  {
+    "lesson": "Bài 18: Kế hoạch & Muốn làm gì",
+    "pattern": "V-たいです",
+    "title": "Thể Tai (Muốn thực hiện hành động):",
+    "meaning": "Muốn làm V. (Lấy V-ます bỏ ます thêm たいです).",
+    "example": "きょうとに いきたいです。 | Tôi muốn đi Kyoto.",
+    "romaji": "V-tai desu",
+    "type": "Grammar"
+  },
+  {
+    "lesson": "Bài 18: Kế hoạch & Muốn làm gì",
+    "pattern": "Liên từ nối câu:",
+    "title": "Liên từ nối câu:",
+    "meaning": "",
+    "example": "**それから (Sorekara):** Sau đó. | ごはんを たべます。それから、テレビを みます。 | Tôi ăn cơm. Sau đó tôi xem tivi. | **でも (Demo):** Nhưng. | えいがに いきました。でも、つまらなかったです。 | Tôi đã đi xem phim. Nhưng (phim) chán ngắt. | **そして (Soshite):** Và / Hơn nữa. | この レストランは やすいです。そして、おいしいです。 | Nhà hàng này rẻ. Và ngon nữa.",
+    "romaji": "Gohan o tabemasu. Sorekara, terebi o mimasu.",
+    "type": "Grammar"
+  }
+]

@@ -1,0 +1,352 @@
+[
+  {
+    "kanji": "一",
+    "hiragana": "いち",
+    "meaning": "Một",
+    "lesson": "Chữ số & Tiền tệ (Dùng khi mua sắm, hỏi giá)",
+    "type": "Kanji"
+  },
+  {
+    "kanji": "二",
+    "hiragana": "に",
+    "meaning": "Hai",
+    "lesson": "Chữ số & Tiền tệ (Dùng khi mua sắm, hỏi giá)",
+    "type": "Kanji"
+  },
+  {
+    "kanji": "三",
+    "hiragana": "さん",
+    "meaning": "Ba",
+    "lesson": "Chữ số & Tiền tệ (Dùng khi mua sắm, hỏi giá)",
+    "type": "Kanji"
+  },
+  {
+    "kanji": "四",
+    "hiragana": "よん / し",
+    "meaning": "Bốn",
+    "lesson": "Chữ số & Tiền tệ (Dùng khi mua sắm, hỏi giá)",
+    "type": "Kanji"
+  },
+  {
+    "kanji": "五",
+    "hiragana": "ご",
+    "meaning": "Năm",
+    "lesson": "Chữ số & Tiền tệ (Dùng khi mua sắm, hỏi giá)",
+    "type": "Kanji"
+  },
+  {
+    "kanji": "六",
+    "hiragana": "ろく",
+    "meaning": "Sáu",
+    "lesson": "Chữ số & Tiền tệ (Dùng khi mua sắm, hỏi giá)",
+    "type": "Kanji"
+  },
+  {
+    "kanji": "七",
+    "hiragana": "なな / しち",
+    "meaning": "Bảy",
+    "lesson": "Chữ số & Tiền tệ (Dùng khi mua sắm, hỏi giá)",
+    "type": "Kanji"
+  },
+  {
+    "kanji": "八",
+    "hiragana": "はち",
+    "meaning": "Tám",
+    "lesson": "Chữ số & Tiền tệ (Dùng khi mua sắm, hỏi giá)",
+    "type": "Kanji"
+  },
+  {
+    "kanji": "九",
+    "hiragana": "きゅう / く",
+    "meaning": "Chín",
+    "lesson": "Chữ số & Tiền tệ (Dùng khi mua sắm, hỏi giá)",
+    "type": "Kanji"
+  },
+  {
+    "kanji": "十",
+    "hiragana": "じゅう",
+    "meaning": "Mười",
+    "lesson": "Chữ số & Tiền tệ (Dùng khi mua sắm, hỏi giá)",
+    "type": "Kanji"
+  },
+  {
+    "kanji": "百",
+    "hiragana": "ひゃく",
+    "meaning": "Trăm *(Vd: 三百 - さんびゃく - 300)*",
+    "lesson": "Chữ số & Tiền tệ (Dùng khi mua sắm, hỏi giá)",
+    "type": "Kanji"
+  },
+  {
+    "kanji": "千",
+    "hiragana": "せん",
+    "meaning": "Nghìn *(Vd: 三千 - さんぜん - 3000)*",
+    "lesson": "Chữ số & Tiền tệ (Dùng khi mua sắm, hỏi giá)",
+    "type": "Kanji"
+  },
+  {
+    "kanji": "万",
+    "hiragana": "まん",
+    "meaning": "Mười nghìn / Vạn *(Vd: 一万 - いちまん - 10.000)*",
+    "lesson": "Chữ số & Tiền tệ (Dùng khi mua sắm, hỏi giá)",
+    "type": "Kanji"
+  },
+  {
+    "kanji": "円",
+    "hiragana": "えん",
+    "meaning": "Yên Nhật *(Vd: 100円 - ひゃくえん - 100 yên)*",
+    "lesson": "Chữ số & Tiền tệ (Dùng khi mua sắm, hỏi giá)",
+    "type": "Kanji"
+  },
+  {
+    "kanji": "時",
+    "hiragana": "じ",
+    "meaning": "Giờ *(Vd: 8時 - はちじ - 8 giờ)*",
+    "lesson": "Thời gian & Các ngày trong tuần (Lịch trình, Hẹn hò)",
+    "type": "Kanji"
+  },
+  {
+    "kanji": "分",
+    "hiragana": "ふん / ぷん",
+    "meaning": "Phút",
+    "lesson": "Thời gian & Các ngày trong tuần (Lịch trình, Hẹn hò)",
+    "type": "Kanji"
+  },
+  {
+    "kanji": "半",
+    "hiragana": "はん",
+    "meaning": "Rưỡi, một nửa *(Vd: 9時半 - くじはん - 9 rưỡi)*",
+    "lesson": "Thời gian & Các ngày trong tuần (Lịch trình, Hẹn hò)",
+    "type": "Kanji"
+  },
+  {
+    "kanji": "今",
+    "hiragana": "いま",
+    "meaning": "Bây giờ",
+    "lesson": "Thời gian & Các ngày trong tuần (Lịch trình, Hẹn hò)",
+    "type": "Kanji"
+  },
+  {
+    "kanji": "日",
+    "hiragana": "にち / ひ",
+    "meaning": "Ngày / Mặt trời. *(Chủ nhật: 日曜日 - にちようび)*",
+    "lesson": "Thời gian & Các ngày trong tuần (Lịch trình, Hẹn hò)",
+    "type": "Kanji"
+  },
+  {
+    "kanji": "月",
+    "hiragana": "げつ / がつ",
+    "meaning": "Tháng / Mặt trăng. *(Thứ 2: 月曜日 - げつようび)*",
+    "lesson": "Thời gian & Các ngày trong tuần (Lịch trình, Hẹn hò)",
+    "type": "Kanji"
+  },
+  {
+    "kanji": "火",
+    "hiragana": "か",
+    "meaning": "Lửa. *(Thứ 3: 火曜日 - かようび)*",
+    "lesson": "Thời gian & Các ngày trong tuần (Lịch trình, Hẹn hò)",
+    "type": "Kanji"
+  },
+  {
+    "kanji": "水",
+    "hiragana": "すい",
+    "meaning": "Nước. *(Thứ 4: 水曜日 - すいようび)*",
+    "lesson": "Thời gian & Các ngày trong tuần (Lịch trình, Hẹn hò)",
+    "type": "Kanji"
+  },
+  {
+    "kanji": "木",
+    "hiragana": "もく",
+    "meaning": "Cây. *(Thứ 5: 木曜日 - もくようび)*",
+    "lesson": "Thời gian & Các ngày trong tuần (Lịch trình, Hẹn hò)",
+    "type": "Kanji"
+  },
+  {
+    "kanji": "金",
+    "hiragana": "きん",
+    "meaning": "Tiền, Vàng. *(Thứ 6: 金曜日 - きんようび)*",
+    "lesson": "Thời gian & Các ngày trong tuần (Lịch trình, Hẹn hò)",
+    "type": "Kanji"
+  },
+  {
+    "kanji": "土",
+    "hiragana": "ど",
+    "meaning": "Đất. *(Thứ 7: 土曜日 - どようび)*",
+    "lesson": "Thời gian & Các ngày trong tuần (Lịch trình, Hẹn hò)",
+    "type": "Kanji"
+  },
+  {
+    "kanji": "休",
+    "hiragana": "やす",
+    "meaning": "Nghỉ ngơi *(Vd: 休み - やすみ - Ngày nghỉ)*",
+    "lesson": "Thời gian & Các ngày trong tuần (Lịch trình, Hẹn hò)",
+    "type": "Kanji"
+  },
+  {
+    "kanji": "人",
+    "hiragana": "じん / ひと",
+    "meaning": "Người. *(Vd: 日本人 - にほんじん - Người Nhật)*",
+    "lesson": "Con người, Ngôn ngữ & Đại từ (Tự giới thiệu)",
+    "type": "Kanji"
+  },
+  {
+    "kanji": "私",
+    "hiragana": "わたし",
+    "meaning": "Tôi",
+    "lesson": "Con người, Ngôn ngữ & Đại từ (Tự giới thiệu)",
+    "type": "Kanji"
+  },
+  {
+    "kanji": "男",
+    "hiragana": "おとこ",
+    "meaning": "Nam giới *(Thường thấy ở biển hiệu nhà vệ sinh)*",
+    "lesson": "Con người, Ngôn ngữ & Đại từ (Tự giới thiệu)",
+    "type": "Kanji"
+  },
+  {
+    "kanji": "女",
+    "hiragana": "おんな",
+    "meaning": "Nữ giới *(Thường thấy ở biển hiệu nhà vệ sinh)*",
+    "lesson": "Con người, Ngôn ngữ & Đại từ (Tự giới thiệu)",
+    "type": "Kanji"
+  },
+  {
+    "kanji": "本",
+    "hiragana": "ほん",
+    "meaning": "Sách / Nguồn gốc. *(Vd: 日本 - にほん - Nhật Bản)*",
+    "lesson": "Con người, Ngôn ngữ & Đại từ (Tự giới thiệu)",
+    "type": "Kanji"
+  },
+  {
+    "kanji": "語",
+    "hiragana": "ご",
+    "meaning": "Ngôn ngữ. *(Vd: 日本語 - にほんご - Tiếng Nhật)*",
+    "lesson": "Con người, Ngôn ngữ & Đại từ (Tự giới thiệu)",
+    "type": "Kanji"
+  },
+  {
+    "kanji": "国",
+    "hiragana": "くに",
+    "meaning": "Đất nước",
+    "lesson": "Con người, Ngôn ngữ & Đại từ (Tự giới thiệu)",
+    "type": "Kanji"
+  },
+  {
+    "kanji": "上",
+    "hiragana": "うえ",
+    "meaning": "Trên",
+    "lesson": "Không gian & Vị trí (Nhà cửa, Đường phố)",
+    "type": "Kanji"
+  },
+  {
+    "kanji": "下",
+    "hiragana": "した",
+    "meaning": "Dưới",
+    "lesson": "Không gian & Vị trí (Nhà cửa, Đường phố)",
+    "type": "Kanji"
+  },
+  {
+    "kanji": "中",
+    "hiragana": "なか",
+    "meaning": "Trong, ở giữa",
+    "lesson": "Không gian & Vị trí (Nhà cửa, Đường phố)",
+    "type": "Kanji"
+  },
+  {
+    "kanji": "前",
+    "hiragana": "まえ",
+    "meaning": "Trước",
+    "lesson": "Không gian & Vị trí (Nhà cửa, Đường phố)",
+    "type": "Kanji"
+  },
+  {
+    "kanji": "後",
+    "hiragana": "うしろ",
+    "meaning": "Sau",
+    "lesson": "Không gian & Vị trí (Nhà cửa, Đường phố)",
+    "type": "Kanji"
+  },
+  {
+    "kanji": "右",
+    "hiragana": "みぎ",
+    "meaning": "Phải",
+    "lesson": "Không gian & Vị trí (Nhà cửa, Đường phố)",
+    "type": "Kanji"
+  },
+  {
+    "kanji": "左",
+    "hiragana": "ひだり",
+    "meaning": "Trái",
+    "lesson": "Không gian & Vị trí (Nhà cửa, Đường phố)",
+    "type": "Kanji"
+  },
+  {
+    "kanji": "店",
+    "hiragana": "みせ",
+    "meaning": "Cửa hàng",
+    "lesson": "Không gian & Vị trí (Nhà cửa, Đường phố)",
+    "type": "Kanji"
+  },
+  {
+    "kanji": "駅",
+    "hiragana": "えき",
+    "meaning": "Nhà ga",
+    "lesson": "Không gian & Vị trí (Nhà cửa, Đường phố)",
+    "type": "Kanji"
+  },
+  {
+    "kanji": "食",
+    "hiragana": "た・べる",
+    "meaning": "Ăn *(Từ ghép: 食堂 - しょくどう - Nhà ăn)*",
+    "lesson": "Động từ & Tính từ cơ bản (Ăn uống, Du lịch)",
+    "type": "Kanji"
+  },
+  {
+    "kanji": "飲",
+    "hiragana": "の・む",
+    "meaning": "Uống *(Từ ghép: 飲み物 - のみもの - Đồ uống)*",
+    "lesson": "Động từ & Tính từ cơ bản (Ăn uống, Du lịch)",
+    "type": "Kanji"
+  },
+  {
+    "kanji": "行",
+    "hiragana": "い・く",
+    "meaning": "Đi",
+    "lesson": "Động từ & Tính từ cơ bản (Ăn uống, Du lịch)",
+    "type": "Kanji"
+  },
+  {
+    "kanji": "見",
+    "hiragana": "み・る",
+    "meaning": "Nhìn, xem",
+    "lesson": "Động từ & Tính từ cơ bản (Ăn uống, Du lịch)",
+    "type": "Kanji"
+  },
+  {
+    "kanji": "大",
+    "hiragana": "おお・きい",
+    "meaning": "To, lớn *(Thường thấy chỉ size đồ ăn/uống)*",
+    "lesson": "Động từ & Tính từ cơ bản (Ăn uống, Du lịch)",
+    "type": "Kanji"
+  },
+  {
+    "kanji": "小",
+    "hiragana": "ちい・さい",
+    "meaning": "Nhỏ, bé",
+    "lesson": "Động từ & Tính từ cơ bản (Ăn uống, Du lịch)",
+    "type": "Kanji"
+  },
+  {
+    "kanji": "山",
+    "hiragana": "やま",
+    "meaning": "Núi",
+    "lesson": "Động từ & Tính từ cơ bản (Ăn uống, Du lịch)",
+    "type": "Kanji"
+  },
+  {
+    "kanji": "川",
+    "hiragana": "かわ",
+    "meaning": "Sông",
+    "lesson": "Động từ & Tính từ cơ bản (Ăn uống, Du lịch)",
+    "type": "Kanji"
+  }
+]
