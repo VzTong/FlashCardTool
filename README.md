@@ -1,4 +1,3 @@
-```markdown
 # Japanese & English Vocabulary Trainer
 
 Ứng dụng học từ vựng **tiếng Nhật** và **tiếng Anh** bằng Flashcard & Quiz, hỗ trợ phát âm online/offline.
@@ -204,4 +203,3 @@ pip freeze > requirements.txt
 ## License
 
 Dự án cá nhân – tự do sử dụng và chỉnh sửa.
-```
