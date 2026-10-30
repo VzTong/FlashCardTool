@@ -12,8 +12,8 @@
     "lesson": "16"
   },
   {
-    "kanji": null,
-    "hiragana": "アイスクリーム",
+    "kanji": "アイスクリーム",
+    "hiragana": "あいすくりーむ",
     "meaning": "Kem",
     "lesson": "18"
   },
@@ -36,20 +36,20 @@
     "lesson": "16"
   },
   {
-    "kanji": null,
-    "hiragana": "明るい（あかるい）",
+    "kanji": "明るい",
+    "hiragana": "あかるい",
     "meaning": "Sáng sủa",
     "lesson": "7"
   },
   {
-    "kanji": null,
-    "hiragana": "アクション",
+    "kanji": "アクション",
+    "hiragana": "あくしょん",
     "meaning": "Phim hành động",
     "lesson": "11"
   },
   {
-    "kanji": null,
-    "hiragana": "アクセサリー",
+    "kanji": "アクセサリー",
+    "hiragana": "あくせさりー",
     "meaning": "Trang sức",
     "lesson": "15"
   },
@@ -66,7 +66,7 @@
     "lesson": "1"
   },
   {
-    "kanji": null,
+    "kanji": "浅草",
     "hiragana": "あさくさ",
     "meaning": "Asakusa (tên địa danh)",
     "lesson": "18"
@@ -108,8 +108,8 @@
     "lesson": "4"
   },
   {
-    "kanji": null,
-    "hiragana": "アニメ",
+    "kanji": "アニメ",
+    "hiragana": "あにめ",
     "meaning": "Phim hoạt hình",
     "lesson": "11"
   },
@@ -126,14 +126,14 @@
     "lesson": "16"
   },
   {
-    "kanji": "あのう",
-    "hiragana": "あの",
+    "kanji": null,
+    "hiragana": "あのう",
     "meaning": "Từ dùng để mào đầu câu chuyện (あのう、おなまえは？）",
     "lesson": "3"
   },
   {
-    "kanji": null,
-    "hiragana": "アパート",
+    "kanji": "アパート",
+    "hiragana": "あぱーと",
     "meaning": "Căn hộ",
     "lesson": "7"
   },
@@ -150,14 +150,14 @@
     "lesson": "5"
   },
   {
-    "kanji": null,
-    "hiragana": "アメリカ",
+    "kanji": "アメリカ",
+    "hiragana": "あめりか",
     "meaning": "Mỹ",
     "lesson": "2"
   },
   {
-    "kanji": null,
-    "hiragana": "アラビアご",
+    "kanji": "アラビアご",
+    "hiragana": "あらびあご",
     "meaning": "Tiếng Ả Rập",
     "lesson": "3"
   },
@@ -193,7 +193,7 @@
   },
   {
     "kanji": "Eメール",
-    "hiragana": "イーメール",
+    "hiragana": "イーメール / いーめーる",
     "meaning": "Email",
     "lesson": "11"
   },
@@ -210,8 +210,8 @@
     "lesson": "6"
   },
   {
-    "kanji": null,
-    "hiragana": "イギリス",
+    "kanji": "イギリス",
+    "hiragana": "いぎりす",
     "meaning": "Anh",
     "lesson": "2"
   },
@@ -240,8 +240,8 @@
     "lesson": "9"
   },
   {
-    "kanji": null,
-    "hiragana": "イタリア",
+    "kanji": "イタリア",
+    "hiragana": "いたりあ",
     "meaning": "Ý",
     "lesson": "2"
   },
@@ -252,8 +252,8 @@
     "lesson": "7"
   },
   {
-    "kanji": null,
-    "hiragana": "いちにち（一日）",
+    "kanji": "一日",
+    "hiragana": "いちにち",
     "meaning": "Cả ngày",
     "lesson": "9"
   },
@@ -270,8 +270,8 @@
     "lesson": "9"
   },
   {
-    "kanji": null,
-    "hiragana": "いつか（五日）",
+    "kanji": "五日",
+    "hiragana": "いつか",
     "meaning": "Ngày 5",
     "lesson": "12"
   },
@@ -300,8 +300,8 @@
     "lesson": "1"
   },
   {
-    "kanji": null,
-    "hiragana": "イベント",
+    "kanji": "イベント",
+    "hiragana": "いべんと",
     "meaning": "Sự kiện",
     "lesson": "12"
   },
@@ -342,20 +342,20 @@
     "lesson": "12"
   },
   {
-    "kanji": null,
-    "hiragana": "インターネット",
+    "kanji": "インターネット",
+    "hiragana": "いんたーねっと",
     "meaning": "Internet",
     "lesson": "10"
   },
   {
-    "kanji": null,
-    "hiragana": "インド",
+    "kanji": "インド",
+    "hiragana": "いんど",
     "meaning": "Ấn Độ",
     "lesson": "2"
   },
   {
-    "kanji": null,
-    "hiragana": "インドネシア",
+    "kanji": "インドネシア",
+    "hiragana": "いんどねしあ",
     "meaning": "Indonesia",
     "lesson": "2"
   },
@@ -426,8 +426,8 @@
     "lesson": "11"
   },
   {
-    "kanji": null,
-    "hiragana": "エアコン",
+    "kanji": "エアコン",
+    "hiragana": "えあこん",
     "meaning": "Máy điều hòa nhiệt độ",
     "lesson": "2"
   },
@@ -462,14 +462,14 @@
     "lesson": "11"
   },
   {
-    "kanji": null,
-    "hiragana": "エジプト",
+    "kanji": "エジプト",
+    "hiragana": "えじぷと",
     "meaning": "Ai Cập",
     "lesson": "2"
   },
   {
     "kanji": "SF",
-    "hiragana": "エスエフ",
+    "hiragana": "エスエフ / えすえふ",
     "meaning": "Phim khoa học viễn tưởng",
     "lesson": "11"
   },
@@ -480,14 +480,14 @@
     "lesson": "15"
   },
   {
-    "kanji": "～えん／～円",
-    "hiragana": "えん",
+    "kanji": "～円",
+    "hiragana": "～えん",
     "meaning": "Yên (đơn vị tiền Nhật)",
     "lesson": "13"
   },
   {
-    "kanji": null,
-    "hiragana": "エンジニア",
+    "kanji": "エンジニア",
+    "hiragana": "えんじにあ",
     "meaning": "Kỹ sư",
     "lesson": "3"
   },
@@ -504,14 +504,14 @@
     "lesson": "7"
   },
   {
-    "kanji": null,
+    "kanji": "大阪市",
     "hiragana": "おおさか",
     "meaning": "Osaka (tên địa danh)",
     "lesson": "4"
   },
   {
-    "kanji": null,
-    "hiragana": "オーストラリア",
+    "kanji": "オーストラリア",
+    "hiragana": "おーすとらりあ",
     "meaning": "Úc",
     "lesson": "2"
   },
@@ -528,7 +528,7 @@
     "lesson": "6"
   },
   {
-    "kanji": null,
+    "kanji": "沖縄",
     "hiragana": "おきなわ",
     "meaning": "Okinawa (tên địa danh)",
     "lesson": "4"
@@ -678,8 +678,8 @@
     "lesson": "13"
   },
   {
-    "kanji": null,
-    "hiragana": "オレンジ",
+    "kanji": "オレンジ",
+    "hiragana": "おれんじ",
     "meaning": "Màu cam",
     "lesson": "16"
   },
@@ -780,8 +780,8 @@
     "lesson": "1"
   },
   {
-    "kanji": null,
-    "hiragana": "カタカナ",
+    "kanji": "カタカナ",
+    "hiragana": "かたかな",
     "meaning": "Chữ Katakana",
     "lesson": "2"
   },
@@ -804,14 +804,14 @@
     "lesson": "9"
   },
   {
-    "kanji": null,
-    "hiragana": "カップ",
+    "kanji": "カップ",
+    "hiragana": "かっぷ",
     "meaning": "Tách (uống cà phê)",
     "lesson": "8"
   },
   {
-    "kanji": null,
-    "hiragana": "カナダ",
+    "kanji": "カナダ",
+    "hiragana": "かなだ",
     "meaning": "Canada",
     "lesson": "2"
   },
@@ -822,8 +822,8 @@
     "lesson": "18"
   },
   {
-    "kanji": null,
-    "hiragana": "カメラ",
+    "kanji": "カメラ",
+    "hiragana": "かめら",
     "meaning": "Máy ảnh",
     "lesson": "2"
   },
@@ -834,20 +834,20 @@
     "lesson": "10"
   },
   {
-    "kanji": null,
-    "hiragana": "カラオケ",
+    "kanji": "カラオケ",
+    "hiragana": "からおけ",
     "meaning": "Karaoke",
     "lesson": "2"
   },
   {
-    "kanji": null,
-    "hiragana": "カレー",
+    "kanji": "カレー",
+    "hiragana": "かれー",
     "meaning": "Cà ri",
     "lesson": "6"
   },
   {
-    "kanji": null,
-    "hiragana": "カレンダー",
+    "kanji": "カレンダー",
+    "hiragana": "かれんだー",
     "meaning": "Lịch",
     "lesson": "12"
   },
@@ -888,8 +888,8 @@
     "lesson": "13"
   },
   {
-    "kanji": null,
-    "hiragana": "ギター",
+    "kanji": "ギター",
+    "hiragana": "ぎたー",
     "meaning": "Đàn ghita",
     "lesson": "11"
   },
@@ -1008,8 +1008,8 @@
     "lesson": "9"
   },
   {
-    "kanji": null,
-    "hiragana": "クアラルンプール",
+    "kanji": "クアラルンプール",
+    "hiragana": "くあらるんぷーる",
     "meaning": "Kuala Lampur (thủ đô của Malaysia)",
     "lesson": "2"
   },
@@ -1026,8 +1026,8 @@
     "lesson": "5"
   },
   {
-    "kanji": "～ぐち／～口",
-    "hiragana": "ぐち",
+    "kanji": "～口",
+    "hiragana": "～ぐち",
     "meaning": "Cửa ~",
     "lesson": "13"
   },
@@ -1062,8 +1062,8 @@
     "lesson": "10"
   },
   {
-    "kanji": null,
-    "hiragana": "クラシック",
+    "kanji": "クラシック",
+    "hiragana": "くらしっく",
     "meaning": "Nhạc cổ điển",
     "lesson": "11"
   },
@@ -1074,8 +1074,8 @@
     "lesson": "13"
   },
   {
-    "kanji": null,
-    "hiragana": "グレー",
+    "kanji": "グレー",
+    "hiragana": "ぐれー",
     "meaning": "Màu xám",
     "lesson": "16"
   },
@@ -1140,32 +1140,32 @@
     "lesson": "3"
   },
   {
-    "kanji": null,
-    "hiragana": "コース",
+    "kanji": "コース",
+    "hiragana": "こーす",
     "meaning": "Khóa học",
     "lesson": "10"
   },
   {
-    "kanji": null,
-    "hiragana": "コート",
+    "kanji": "コート",
+    "hiragana": "こーと",
     "meaning": "Áo khoác dài/áo măng tô (loại dài đến đầu gối)",
     "lesson": "16"
   },
   {
-    "kanji": null,
-    "hiragana": "コーヒー",
+    "kanji": "コーヒー",
+    "hiragana": "こーひー",
     "meaning": "Cà phê",
     "lesson": "2"
   },
   {
-    "kanji": null,
-    "hiragana": "コーヒーショップ",
+    "kanji": "コーヒーショップ",
+    "hiragana": "こーひーしょっぷ",
     "meaning": "Quán cà phê",
     "lesson": "6"
   },
   {
-    "kanji": null,
-    "hiragana": "ゴールデンウィーク",
+    "kanji": "ゴールデンウィーク",
+    "hiragana": "ごーるでんうぃーく",
     "meaning": "Tuần lễ vàng (tuần được nghỉ dài nhất ở Nhật từ cuối tháng 4 đến đầu tháng 5)",
     "lesson": "12"
   },
@@ -1236,8 +1236,8 @@
     "lesson": "5"
   },
   {
-    "kanji": null,
-    "hiragana": "コメディ",
+    "kanji": "コメディ",
+    "hiragana": "こめでぃ",
     "meaning": "Phim hài",
     "lesson": "11"
   },

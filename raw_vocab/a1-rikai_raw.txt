@@ -1,0 +1,837 @@
+Lesson: 8
+ Word: あ
+ Meaning: À (あ、こちらにどうぞ: À, xin mời vào đây）
+
+Lesson: 16
+ Word: ああ
+ Meaning: À
+
+Lesson: 18
+ Word: アイスクリーム
+ Meaning: Kem
+
+Lesson: 13
+ Word: あいます／会います
+ Meaning: Gặp
+
+Lesson: 16
+ Word: あお
+ Meaning: Màu xanh da trời
+
+Lesson: 16
+ Word: あか
+ Meaning: Màu đỏ
+
+Lesson: 7
+ Word: 明るい（あかるい）
+ Meaning: Sáng sủa
+
+Lesson: 11
+ Word: アクション
+ Meaning: Phim hành động
+
+Lesson: 15
+ Word: アクセサリー
+ Meaning: Trang sức
+
+Lesson: 15
+ Word: あげます
+ Meaning: Tặng, cho
+
+Lesson: 1
+ Word: あさ
+ Meaning: Buổi sáng
+
+Lesson: 18
+ Word: あさくさ
+ Meaning: Asakusa (tên địa danh)
+
+Lesson: 5
+ Word: あさごはん
+ Meaning: Bữa sáng
+
+Lesson: 10
+ Word: あした
+ Meaning: Ngày mai
+
+Lesson: 16
+ Word: あそこ
+ Meaning: Ở đằng kia
+
+Lesson: 17
+ Word: あそびます
+ Meaning: Chơi
+
+Lesson: 7
+ Word: あたらしい／新しい
+ Meaning: Mới
+
+Lesson: 4
+ Word: あに
+ Meaning: Anh trai (của mình)
+
+Lesson: 11
+ Word: アニメ
+ Meaning: Phim hoạt hình
+
+Lesson: 4
+ Word: あね
+ Meaning: Chị gái (của mình)
+
+Lesson: 16
+ Word: あの
+ Meaning: あの＋danh từ: ~ kia (ở xa cả người nói và người nghe)
+
+Lesson: 3
+ Word: あの／あのう
+ Meaning: Từ dùng để mào đầu câu chuyện (あのう、おなまえは？）
+
+Lesson: 7
+ Word: アパート
+ Meaning: Căn hộ
+
+Lesson: 9
+ Word: あびます
+ Meaning: Tắm
+
+Lesson: 5
+ Word: あまり（～ない）
+ Meaning: Không ~ lắm (dùng trong câu phủ định)
+
+Lesson: 2
+ Word: アメリカ
+ Meaning: Mỹ
+
+Lesson: 3
+ Word: アラビアご
+ Meaning: Tiếng Ả Rập
+
+Lesson: 6
+ Word: あります
+ Meaning: Có (dùng cho đồ vật)
+
+Lesson: 16
+ Word: あれ
+ Meaning: Cái kia (xa cả người nói và người nghe)
+
+Lesson: 8
+ Word: いい
+ Meaning: Tốt
+
+Lesson: 1
+ Word: いいえ
+ Meaning: Không/không sao
+
+Lesson: 11
+ Word: いいます／言います
+ Meaning: Nói
+
+Lesson: 11
+ Word: イーメール／Eメール
+ Meaning: Email
+
+Lesson: 1
+ Word: いえ
+ Meaning: Ngôi nhà
+
+Lesson: 6
+ Word: いきます／行きます
+ Meaning: Đi, đi đến
+
+Lesson: 2
+ Word: イギリス
+ Meaning: Anh
+
+Lesson: 7
+ Word: いくつ
+ Meaning: Bao nhiêu cái?
+
+Lesson: 13
+ Word: いくら
+ Meaning: Bao nhiêu tiền?
+
+Lesson: 1
+ Word: いす
+ Meaning: Cái ghế
+
+Lesson: 9
+ Word: いそがしい
+ Meaning: Bận
+
+Lesson: 2
+ Word: イタリア
+ Meaning: Ý
+
+Lesson: 7
+ Word: いち／一
+ Meaning: Một
+
+Lesson: 9
+ Word: いちにち（一日）
+ Meaning: Cả ngày
+
+Lesson: 17
+ Word: いちばん
+ Meaning: Nhất, thứ nhất
+
+Lesson: 9
+ Word: いつ
+ Meaning: Khi nào?
+
+Lesson: 12
+ Word: いつか（五日）
+ Meaning: Ngày 5
+
+Lesson: 7
+ Word: いっこだて
+ Meaning: Nhà nguyên căn, nhà riêng
+
+Lesson: 12
+ Word: いっしょに
+ Meaning: Cùng nhau
+
+Lesson: 5
+ Word: いつも
+ Meaning: Luôn luôn
+
+Lesson: 1
+ Word: いぬ
+Meaning: Con chó
+
+Lesson: 12
+ Word: イベント
+ Meaning: Sự kiện
+
+Lesson: 9
+ Word: いま
+ Meaning: Bây giờ
+
+Lesson: 4
+ Word: います
+ Meaning: Có (dùng cho người và động vật)
+
+Lesson: 4
+ Word: いもうと
+ Meaning: Em gái (của mình)
+
+Lesson: 4
+ Word: いもうとさん
+ Meaning: Em gái (của người khác)
+
+Lesson: 16
+ Word: いろ
+ Meaning: Màu sắc
+
+Lesson: 12
+ Word: いろいろ（な）
+ Meaning: Nhiều, đa dạng
+
+Lesson: 10
+ Word: インターネット
+ Meaning: Internet
+
+Lesson: 2
+ Word: インド
+ Meaning: Ấn Độ
+
+Lesson: 2
+ Word: インドネシア
+ Meaning: Indonesia
+
+Lesson: 17
+ Word: うーん
+ Meaning: ừm…(nói khi hơi suy nghĩ)
+
+Lesson: 8
+ Word: うえ
+ Meaning: Trên
+
+Lesson: 14
+ Word: うしろ
+ Meaning: Phía sau, đằng sau
+
+Lesson: 9
+ Word: うち
+ Meaning: Nhà
+
+Lesson: 6
+ Word: うどん
+ Meaning: Mì Udon
+
+Lesson: 1
+ Word: うみ
+ Meaning: Biển
+
+Lesson: 17
+ Word: うれしい
+ Meaning: Vui mừng
+
+Lesson: 13
+ Word: うんてんしゅ
+ Meaning: Tài xế
+
+Lesson: 9
+ Word: うんどう
+ Meaning: Vận động/thể dục
+
+Lesson: 15
+ Word: え
+ Meaning: Hả, cái gì?
+
+Lesson: 11
+ Word: え
+ Meaning: Bức tranh, tranh
+
+Lesson: 2
+ Word: エアコン
+ Meaning: Máy điều hòa nhiệt độ
+
+Lesson: 11
+ Word: えいが
+ Meaning: Phim
+
+Lesson: 3
+ Word: えいご
+ Meaning: Tiếng Anh
+
+Lesson: 9
+ Word: ええ
+ Meaning: Ừ, vâng (cách nói thân mật)
+
+Lesson: 8
+ Word: ええと／ええっと
+ Meaning: Ừm, chuyện đó thì…(nói khi đang suy nghĩ để đưa ra câu trả lời)
+
+Lesson: 11
+ Word: えき
+ Meaning: Nhà ga
+
+Lesson: 2
+ Word: エジプト
+ Meaning: Ai Cập
+
+Lesson: 11
+ Word: エスエフ／SF
+ Meaning: Phim khoa học viễn tưởng
+
+Lesson: 15
+ Word: えはがき
+ Meaning: Bưu thiếp ảnh, bưu ảnh
+
+Lesson: 13
+ Word: えん／～えん／～円
+ Meaning: Yên (đơn vị tiền Nhật)
+
+Lesson: 3
+ Word: エンジニア
+ Meaning: Kỹ sư
+
+Lesson: 6
+ Word: おいしい
+ Meaning: Ngon
+
+Lesson: 7
+ Word: おおきい／大きい
+ Meaning: To, lớn
+
+Lesson: 4
+ Word: おおさか
+ Meaning: Osaka (tên địa danh)
+
+Lesson: 2
+ Word: オーストラリア
+ Meaning: Úc
+
+Lesson: 4
+ Word: おかあさん
+ Meaning: Mẹ (của người khác)
+
+Lesson: 6
+ Word: おかね（かね）／お金（金）
+ Meaning: Tiền
+
+Lesson: 4
+ Word: おきなわ
+ Meaning: Okinawa (tên địa danh)
+
+Lesson: 9
+ Word: おきます
+ Meaning: Thức dậy
+
+Lesson: 4
+ Word: おくさん
+ Meaning: Vợ (của người khác)
+
+Lesson: 3
+ Word: おくに（くに）
+ Meaning: Đất nước (cách nói lịch sự)
+
+Lesson: 4
+ Word: おこさん
+ Meaning: Con (của người khác)
+
+Lesson: 3
+ Word: おしごと（しごと）
+ Meaning: Công việc (cách nói lịch sự)
+
+Lesson: 15
+ Word: おしゃれ（な）
+ Meaning: Ăn diện, hợp mốt
+
+Lesson: 6
+ Word: おすし（すし）
+ Meaning: Sushi
+
+Lesson: 6
+ Word: おそい
+ Meaning: Muộn
+
+Lesson: 6
+Word: おそば（そば）
+ Meaning: Mì Soba
+
+Lesson: 1
+ Word: おちゃ（ちゃ）
+ Meaning: Trà
+
+Lesson: 4
+ Word: おっと
+ Meaning: Chồng(của mình)
+
+Lesson: 11
+ Word: おてら（てら）
+ Meaning: Chùa
+
+Lesson: 4
+ Word: おとうさん
+ Meaning: Bố (của người khác)
+
+Lesson: 4
+ Word: おとうと
+ Meaning: Em trai (của mình)
+
+Lesson: 4
+ Word: おとうとさん
+ Meaning: Em trai (của người khác)
+
+Lesson: 7
+ Word: おとこ
+ Meaning: Đàn ông
+
+Lesson: 4
+ Word: おとこのこ
+ Meaning: Bé trai
+
+Lesson: 4
+ Word: おとこのひと
+ Meaning: Người con trai, người đàn ông
+
+Lesson: 4
+ Word: おにいさん
+ Meaning: Anh trai (của người khác)
+
+Lesson: 4
+ Word: おねえさん
+ Meaning: Chị gái (của người khác)
+
+Lesson: 8
+ Word: おふろ（ふろ）
+ Meaning: Bồn tắm
+
+Lesson: 15
+ Word: おみやげ（みやげ）
+ Meaning: Quà lưu niệm
+
+Lesson: 17
+ Word: おもしろい
+ Meaning: Thú vị
+
+Lesson: 13
+ Word: おります
+ Meaning: Xuống (xe)
+
+Lesson: 16
+ Word: オレンジ
+ Meaning: Màu cam
+
+Lesson: 9
+ Word: おんがく
+ Meaning: Âm nhạc
+
+Lesson: 7
+ Word: おんな
+ Meaning: Phụ nữ
+
+Lesson: 4
+ Word: おんなのこ
+ Meaning: Bé gái
+
+Lesson: 4
+ Word: おんなのひと
+ Meaning: Người con gái, người phụ nữ
+
+Lesson: 11
+ Word: がいこくご
+ Meaning: Ngoại ngữ
+
+Lesson: 9
+ Word: かいしゃ
+ Meaning: Công ty
+
+Lesson: 3
+ Word: かいしゃいん
+ Meaning: Nhân viên công ty
+
+Lesson: 12
+ Word: かいます／買います
+ Meaning: Mua
+
+Lesson: 10
+ Word: かいもの／買いもの
+ Meaning: Mua sắm
+
+Lesson: 9
+ Word: かえります
+ Meaning: Về, trở về
+
+Lesson: 9
+ Word: かきます／書きます
+ Meaning: Viết
+
+Lesson: 11
+ Word: かきます（えを）
+ Meaning: Vẽ (tranh)
+
+Lesson: 3
+ Word: がくせい
+ Meaning: Sinh viên, học sinh
+
+Lesson: 15
+ Word: かさ
+ Meaning: Cái ô
+
+Lesson: 9
+ Word: かじ
+ Meaning: Việc nhà
+
+Lesson: 1
+ Word: かぞく
+ Meaning: Gia đình
+
+Lesson: 2
+ Word: カタカナ
+ Meaning: Chữ Katakana
+
+Lesson: 10
+ Word: がつ／～月
+ Meaning: Tháng ~
+
+Lesson: 15
+ Word: かっこいい
+ Meaning: Có phong cách
+
+Lesson: 9
+ Word: がっこう
+ Meaning: Trường học
+
+Lesson: 8
+ Word: カップ
+ Meaning: Tách (uống cà phê)
+
+Lesson: 2
+ Word: カナダ
+ Meaning: Canada
+
+Lesson: 18
+ Word: かぶき
+ Meaning: Kịch Kabuki
+
+Lesson: 2
+ Word: カメラ
+ Meaning: Máy ảnh
+
+Lesson: 10
+ Word: かようび／火よう日
+ Meaning: Thứ 3
+
+Lesson: 2
+ Word: カラオケ
+ Meaning: Karaoke
+
+Lesson: 6
+ Word: カレー
+ Meaning: Cà ri
+
+Lesson: 12
+ Word: カレンダー
+ Meaning: Lịch
+
+Lesson: 4
+ Word: かわいい
+ Meaning: Dễ thương
+
+Lesson: 3
+ Word: かんこく
+ Meaning: Hàn Quốc
+
+Lesson: 3
+ Word: かんこくご
+ Meaning: Tiếng Hàn Quốc
+
+Lesson: 16
+ Word: きいろ
+ Meaning: Màu vàng
+
+Lesson: 9
+ Word: ききます／聞きます
+ Meaning: Nghe
+
+Lesson: 13
+ Word: きた／北
+ Meaning: Phía Bắc
+Lesson: 11
+ Word: ギター
+ Meaning: Đàn ghita
+
+Lesson: 13
+ Word: きたぐち／北口
+ Meaning: Cửa Bắc
+
+Lesson: 14
+ Word: きっさてん
+ Meaning: Quán cà phê
+
+Lesson: 10
+ Word: きのう
+ Meaning: Hôm qua
+
+Lesson: 10
+ Word: きます／来ます
+ Meaning: Đến
+
+Lesson: 16
+ Word: きます
+ Meaning: Mặc
+
+Lesson: 10
+ Word: きもち
+ Meaning: Cảm xúc
+
+Lesson: 18
+ Word: きもの
+ Meaning: Kimono Áo Kimono
+
+Lesson: 13
+ Word: きゃく
+ Meaning: Khách
+
+Lesson: 12
+ Word: きゅう／九
+ Meaning: Chín
+
+Lesson: 5
+ Word: ぎゅうにゅう
+ Meaning: Sữa bò
+
+Lesson: 6
+ Word: きょう
+ Meaning: Hôm nay
+
+Lesson: 3
+ Word: きょうし
+ Meaning: Giáo viên
+
+Lesson: 7
+ Word: きょうと
+ Meaning: Kyoto (tên địa danh)
+
+Lesson: 12
+ Word: きょねん
+ Meaning: Năm ngoái
+
+Lesson: 6
+ Word: きらい（な）
+ Meaning: Ghét
+
+Lesson: 8
+ Word: きれい（な）
+ Meaning: Đẹp, sạch sẽ
+
+Lesson: 14
+ Word: ぎんこう
+ Meaning: Ngân hàng
+
+Lesson: 10
+ Word: きんようび／金よう日
+ Meaning: Thứ 6
+
+Lesson: 9
+ Word: く／九
+ Meaning: Chín
+
+Lesson: 2
+ Word: クアラルンプール
+ Meaning: Kuala Lampur (thủ đô của Malaysia)
+
+Lesson: 13
+ Word: くうこう
+ Meaning: Sân bay
+
+Lesson: 5
+ Word: くだもの
+ Meaning: Trái cây
+
+Lesson: 13
+ Word: ぐち／～ぐち／～口
+ Meaning: Cửa ~
+
+Lesson: 15
+ Word: くつ
+ Meaning: Giầy
+
+Lesson: 16
+ Word: くつした
+ Meaning: Tất, vớ
+
+Lesson: 2
+ Word: くに
+ Meaning: Đất nước, quốc gia
+
+Lesson: 7
+ Word: くらい
+ Meaning: Tối, âm u
+
+Lesson: 10
+ Word: ぐらい／～ぐらい
+ Meaning: Khoảng ~
+
+Lesson: 11
+ Word: クラシック
+ Meaning: Nhạc cổ điển
+
+Lesson: 13
+ Word: くるま
+ Meaning: Xe hơi
+
+Lesson: 16
+ Word: グレー
+ Meaning: Màu xám
+
+Lesson: 16
+ Word: くろ
+ Meaning: Màu đen
+
+Lesson: 10
+ Word: げつようび／月よう日
+ Meaning: Thứ 2
+
+Lesson: 8
+ Word: げんかん
+ Meaning: Tiền sảnh (nơi cởi và để giày dép trước khi vào nhà)
+
+Lesson: 18
+ Word: げんばくドーム
+ Meaning: Tòa nhà mái vòm (di tích ghi lại sự tàn phá của bom nguyên tử trút xuống ở Hiroshima)
+
+Lesson: 15
+ Word: こ／～こ
+ Meaning: ~ chiếc/cái (cách đếm đồ vật hình cầu hoặc hình hộp)
+
+Lesson: 4
+ Word: ご／五
+ Meaning: Năm
+
+Lesson: 1
+ Word: ご／～ご
+ Meaning: Tiếng ~
+
+Lesson: 7
+ Word: こうえん
+ Meaning: Công viên
+
+Lesson: 5
+ Word: こうちゃ
+ Meaning: Trà túi lọc
+
+Lesson: 3
+ Word: こうむいん
+ Meaning: Công chức
+
+Lesson: 10
+ Word: コース
+ Meaning: Khóa học
+
+Lesson: 16
+ Word: コート
+ Meaning: Áo khoác dài/áo măng tô (loại dài đến đầu gối)
+
+Lesson: 2
+ Word: コーヒー
+ Meaning: Cà phê
+
+Lesson: 6
+ Word: コーヒーショップ
+ Meaning: Quán cà phê
+
+Lesson: 12
+ Word: ゴールデンウィーク
+ Meaning: Tuần lễ vàng (tuần được nghỉ dài nhất ở Nhật từ cuối tháng 4 đến đầu tháng 5)
+
+Lesson: 12
+Word: こくさい
+ Meaning: Quốc tế
+
+Lesson: 13
+ Word: ここ
+ Meaning: Ở đây, chỗ này
+
+Lesson: 9
+ Word: ごご
+ Meaning: Buổi chiều (PM)
+
+Lesson: 4
+ Word: ごしゅじん
+ Meaning: Chồng (của người khác)
+
+Lesson: 9
+ Word: ごぜん
+ Meaning: Buổi sáng (AM)
+
+Lesson: 8
+ Word: こちら
+ Meaning: Chỗ này, ở đây (cách nói lịch sự của ここ)
+
+Lesson: 12
+ Word: ことし
+ Meaning: Năm nay
+
+Lesson: 3
+ Word: ことば
+ Meaning: Từ vựng
+
+Lesson: 4
+ Word: こども
+ Meaning: Con, trẻ con
+
+Lesson: 4
+ Word: この
+ Meaning: kono ~ này
+
+Lesson: 5
+ Word: ごはん
+ Meaning: Cơm
+
+Lesson: 11
+ Word: コメディ
+ Meaning: Phim hài
+
+Lesson: 8
+ Word: これ
+ Meaning: Cái này (gần người nói và người nghe)
+
+Lesson: 9
+ Word: ごろ／～ごろ
+ Meaning: Khoảng ~
+
+Lesson: 12
+ Word
